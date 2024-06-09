@@ -1,0 +1,10 @@
+C:\Users\meryem\source\repos\prolab23\prolab23\bin\Debug\prolab23.exe.config
+C:\Users\meryem\source\repos\prolab23\prolab23\bin\Debug\prolab23.exe
+C:\Users\meryem\source\repos\prolab23\prolab23\bin\Debug\prolab23.pdb
+C:\Users\meryem\source\repos\prolab23\prolab23\obj\Debug\prolab23.csproj.AssemblyReference.cache
+C:\Users\meryem\source\repos\prolab23\prolab23\obj\Debug\prolab23.Form1.resources
+C:\Users\meryem\source\repos\prolab23\prolab23\obj\Debug\prolab23.Properties.Resources.resources
+C:\Users\meryem\source\repos\prolab23\prolab23\obj\Debug\prolab23.csproj.GenerateResource.cache
+C:\Users\meryem\source\repos\prolab23\prolab23\obj\Debug\prolab23.csproj.CoreCompileInputs.cache
+C:\Users\meryem\source\repos\prolab23\prolab23\obj\Debug\prolab23.exe
+C:\Users\meryem\source\repos\prolab23\prolab23\obj\Debug\prolab23.pdb
